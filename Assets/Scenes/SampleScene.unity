@@ -152,7 +152,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49218ffddd6a98342b7f5749c18b9ff8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  Speed: 5
+  cameraTransform: {fileID: 0}
+  moveAction: {fileID: 0}
+  jumpAction: {fileID: 0}
+  moveSpeed: 5
+  rotationSpeed: 10
+  jumpHeight: 1.5
+  gravity: -19.62
 --- !u!143 &24838942
 CharacterController:
   m_ObjectHideFlags: 0
