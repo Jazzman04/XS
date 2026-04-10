@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NewScriptableObjectScript
   name: Sword Guy
   baseStrength: 5
-  baseConstitution: 3
-  baseWill: 3
-  baseWit: 0
+  baseConstitution: 2
+  baseWill: 1
+  baseWit: 3
   baseSpeed: 7
   baseSkill: 7
   baseLuck: 5
   strengthGrowth: 0.8
-  conGrowth: 0.5
+  conGrowth: 0.2
   willGrowth: 0.1
-  witGrowth: 0.1
+  witGrowth: 0.5
   speedGrowth: 0.5
   skillGrowth: 0.7
   luckGrowth: 0.7
